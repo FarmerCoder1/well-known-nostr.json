@@ -1,0 +1,1 @@
+# your-repo-.well-known-nostr.json
